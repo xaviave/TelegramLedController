@@ -10,8 +10,8 @@ First Core handle wifi with a telegram API interface over a task and the Second 
 
 ## Version
 
-0.0.1: Telegram, Task and FastLed handling, one file.
-0.0.2: Refacto with class and custom libraries, allow user to enter wifi credential.
+    0.0.1: Telegram, Task and FastLed handling, one file.
+    0.0.2: Refacto with class and custom libraries, allow user to enter wifi credential.
 
 # Librairies
 
