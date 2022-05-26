@@ -30,4 +30,8 @@ While compiling, if the header files are missing, the libraries are misplaced.
 
 # Circuit Notes
 
-Followed this [best practices](https://learn.adafruit.com/adafruit-neopixel-uberguide/best-practices) to mount the circuit: - 180 ws2812b neopixel leds, last 36 leds with power reinjection. Maybe, I will reinject power in the middle of the 144 leds. - Used a 220 Ohm resistor that I already have to connect esp32 PWM output to neopixel data input. - 3.3V to 5V logic level converter from sparkfun (amazon: YT1076) - About 60-80cm between the esp32 and the neopixel strips without signal loss.
+Followed this [best practices](https://learn.adafruit.com/adafruit-neopixel-uberguide/best-practices) to mount the circuit: 
+- 180 ws2812b neopixel leds, last 36 leds with power reinjection. Maybe, I will reinject power in the middle of the 144 leds.
+- Used a 220 Ohm resistor that I already have to connect esp32 PWM output to neopixel data input. 
+- 3.3V to 5V logic level converter from sparkfun (amazon: YT1076) 
+- About 60-80cm between the esp32 and the neopixel strips without signal loss.
